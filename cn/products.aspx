@@ -25,8 +25,6 @@
                 <!--#include File="Header.aspx" -->
                 <!--#include File="index_Banner_First.aspx" -->
                 <!--#include File="products_Main.aspx" -->
-                <!-- ↓products_Core↓ -->
-                <!--<!--#include File="product_Core.aspx" -->
 
             </div>
             <div class="bottom" style="top: 0px;">
