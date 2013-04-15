@@ -1,0 +1,224 @@
+﻿a.nav:hover {
+    color:#FFFFFF;
+}
+a.nav:visited {
+    color:#FFFFFF;
+}
+
+a.nav:link {
+    color:#FFFFFF;
+}
+
+a.nav:focus {
+    color:#FFFFFF;
+}
+a {
+    text-decoration:none;
+}
+
+a.other:hover {
+    color:#808080;
+}
+a.other:visited {
+    color:#808080;
+}
+
+a.other:link {
+    color:#808080;
+}
+
+a.other:focus {
+    color:#808080;
+}
+
+.bottom_line {
+    border-collapse:collapse;
+    border-bottom:1px;
+    border-top:0px;
+    border-right:0px;
+    border-left:0px;
+    border-style:solid;
+    border-color:#cccccc;
+}
+
+.top 
+{
+    background-image: url('../images/top.png');
+    width: 972px;
+    height: 22px;
+    vertical-align: middle;
+    text-align: center;
+}
+.mid {
+    position:relative;
+    background-image:url('../images/mid.png');
+    width:972px;
+}
+.bottom {
+    background-image:url('../images/bottom.png');
+    position:relative;
+    width:972px;
+    height:16px;
+}
+.logo {
+    position:absolute;
+    width:300px;
+    top:0px;
+    left:20px;
+}
+
+.navigation_text {
+    position:absolute;
+    font-size:13px;
+    color:#FFFFFF;
+    top:10px;
+    left:410px;
+    text-align:center;
+    width:600px;
+}
+
+.shopping_cart {
+    position:absolute;
+    top:70px;
+    left:580px;
+    vertical-align:text-bottom;
+    font-size:13px;
+}
+
+.tak {
+    position:relative;
+    width:200px;
+    color:#FFFFFF;
+    top:-63px;
+    left:-370px;
+}
+
+.news {
+    text-align:left;
+    width:900px;
+    font-size:13px;
+    top:160px;
+    position:relative;
+}
+
+.news_title {
+    font-size: 22px; 
+    width: 100%;
+}
+
+.news_date {
+    position:relative;
+    left:430px;
+    color:#808080;
+}
+
+.rec {
+    font-size:15px;
+    width:100%
+}
+
+
+.news_banner {
+    font-size:13px;
+    position:absolute;
+    top:146px;
+    left:7px;
+}
+.botton_join {
+    text-align:center;
+    vertical-align:middle;
+    position:relative;
+    top: -86px;
+    left: -140px;
+    width:75px;
+
+}
+
+.text_join {
+    text-align:center;
+    vertical-align:middle;
+    position:relative;
+    top: -45px;
+    left: -330px;
+    width:370px;
+}
+
+.index_text_left {
+    vertical-align:top;
+    width:244px;
+    font-size:13px;
+    text-align:left;
+}
+
+.index_text_mid {
+    vertical-align:top;
+    width:244px;
+    font-size:13px;
+    text-align:left;
+}
+
+.index_text_right {
+    vertical-align:top;
+    width:244px;
+    font-size:13px;
+    text-align:left;
+}
+
+products_li {
+    
+    display:inline;
+}
+
+.foot {
+    position:relative;
+    width:760px;
+    height:30px;
+    background-image:url('../images/bottom_bg-01.png');
+    font-size:14px;
+    color:#FFFFFF;
+}
+
+.end {
+    position:relative;
+    height:160px;
+}
+
+h1,h2,h3,h4,h5 {
+    font-family:"微软雅黑", "宋体", sans-serif;
+}
+
+h2 {
+    font-size:22px;
+    
+}
+h3 {
+    font-size:15px;
+}
+h4 {
+    font-size:14px;
+    color:#0094ff;
+}
+body {
+    font-size:20px;
+    background-image:url('../images/bg.png');
+    background-color:#4B3330;
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style-type:none;
+    margin:0;
+}
+html{
+ margin:0;
+ text-align:center;
+ height:100%;
+}
+#continer{
+    width:300px; 
+    text-align:left; 
+    margin:0 auto;
+    font-size:12px;
+}
+
